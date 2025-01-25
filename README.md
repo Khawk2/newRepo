@@ -1,2 +1,5 @@
 # newRepo
-repo practica curso git y github
+
+Mi primer repo...
+
+Mi primera contribuión local para github
